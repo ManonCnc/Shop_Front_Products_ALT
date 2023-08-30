@@ -1,0 +1,4 @@
+node_modules
+.angular
+.angular/cache/14.2.9/babel-webpack
+.angular/cache
